@@ -18,14 +18,6 @@ mongoose.connect(process.env.MONGO_URI)
 
 app.use("/food", foodRoutes);
 
-app.get("/food/test", (req, res) => {
-  res.json({ message: "Food API is working" });
-});
-
-app.get("/", (req, res) => {
-  res.send("Food Stall Tracker Backend Running");
-});
-
 app.use((req, res) => {
   res.status(404).json({
     message: "Route Not Found",
@@ -38,3 +30,4 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+

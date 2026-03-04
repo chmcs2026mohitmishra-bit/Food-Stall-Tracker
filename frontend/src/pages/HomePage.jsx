@@ -74,7 +74,7 @@ const HomePage = () => {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-gray-900 to-black">
       <div className="max-w-6xl mx-auto p-6">
 
-        {/* 🔍 Search & Filters Section */}
+        {/*  Search & Filters Section */}
         <div className="flex flex-wrap gap-3 mb-8 p-5 rounded-2xl bg-white/5 backdrop-blur-md border border-white/10 shadow-xl">
 
           <input
@@ -156,5 +156,6 @@ const HomePage = () => {
     </div>
   );
 };
+
 
 export default HomePage;

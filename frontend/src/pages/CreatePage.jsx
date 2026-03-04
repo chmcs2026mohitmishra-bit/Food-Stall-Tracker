@@ -3,7 +3,7 @@ import FoodForm from "../components/FoodForm";
 
 const CreatePage = () => {
   const location = useLocation();
-  const editData = location.state?.editData || null; // ✅ get editData if navigating from edit button
+  const editData = location.state?.editData || null; 
 
   return (
     <div className="max-w-4xl mx-auto p-6">
@@ -13,3 +13,4 @@ const CreatePage = () => {
 };
 
 export default CreatePage;
+

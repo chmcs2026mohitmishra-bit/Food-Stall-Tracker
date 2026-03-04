@@ -11,7 +11,7 @@ export default {
   daisyui: {
   themes: [
     {
-      midnightflare: {
+      night: {
         "primary": "#ff6b00",        // Neon Orange
         "secondary": "#00f5ff",      // Electric Cyan
         "accent": "#ff00c8",         // Pink Glow
@@ -27,4 +27,5 @@ export default {
     },
   ],
 }
+
 };

@@ -22,7 +22,7 @@ Frontend (Render):
 https://food-stall-tracker-1.onrender.com
 
 Backend (Render):
-https://food-stall-tracker.onrender.com
+https://food-stall-tracker.onrender.com/food/stalls
 
 ---
 
@@ -185,4 +185,5 @@ SYCS
 Batch B3
 Roll no:-59
 MERN Project  
+
 2026

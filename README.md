@@ -58,6 +58,9 @@ User can add new food stall details including:
 -Price of Foods
 -Image
 -Description
+-Opening Time
+-Closing Time
+-Weekly Of
 
 ### 2️⃣ View All Food Stalls
 All added stalls are displayed dynamically from MongoDB database.
@@ -187,3 +190,4 @@ Roll no:-59
 MERN Project  
 
 2026
+

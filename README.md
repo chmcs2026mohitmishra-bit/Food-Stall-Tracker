@@ -74,6 +74,12 @@ User can delete a stall from the database.
 ### 5️⃣ Responsive UI
 The frontend is responsive and works properly on desktop and mobile devices.
 
+
+### 6️⃣ Additional Features
+1. Search Stall By Stall name
+2. Filter shop by entering food name and location
+3. By Choosing Rating we can get the shop name
+
 ---
 
 ## 📂 Project Structure
@@ -190,4 +196,5 @@ Roll no:-59
 MERN Project  
 
 2026
+
 
